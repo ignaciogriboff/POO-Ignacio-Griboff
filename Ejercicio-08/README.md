@@ -6,3 +6,5 @@ Ejercicio 06 - Login con QtDesigner
 - Video referencia de 2026: https://www.youtube.com/watch?v=rcNz_rKD7PQ
 - Video referencia de 2025: https://www.youtube.com/watch?v=9Z208vj-jCw
 
+### Trabajo:
+- Link a video: https://youtu.be/Ede74g3oFao
