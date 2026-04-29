@@ -1,4 +1,4 @@
-# Ejercicio 08 - Editor multilenguaje
+# Ejercicio - Editor multilenguaje
 
 - Login inicial con usuario ``admin:1234`` y bloqueo temporal tras 3 intentos fallidos.
 - Clase base abstracta ``Pantalla`` con interfaz común y clases derivadas concretas: ``Login``, ``EditorPrincipal`` y ``ModoBloqueado``.
