@@ -1,5 +1,4 @@
-Ejercicio - Tablero Kanban colaborativo (Qt + API)
------------------------------------------------------
+# Ejercicio - Tablero Kanban colaborativo (Qt + API)
 
 Desarrollar una aplicacion de escritorio en Qt que permita gestionar tareas
 tipo Kanban, usando el backend FastAPI del VPS y persistencia en MySQL.
