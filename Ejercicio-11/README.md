@@ -1,4 +1,4 @@
-# Ejercicio 09 - Coordenadas en base de datos
+# Ejercicio - Coordenadas en base de datos
 
 - Implementar una clase Pintura derivada de QWidget para dibujo a mano alzada con mouse.
 - Ajustar el grosor del pincel con la rueda del mouse.
