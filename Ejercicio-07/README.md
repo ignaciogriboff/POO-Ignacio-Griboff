@@ -1,4 +1,4 @@
-Ejercicio 05 - Login sin QtDesigner
+Ejercicio - Login sin QtDesigner
 ------------------------------------
 - Replicar el ejemplo del login en un empty project
 - Grabar un video explicando el desarrollo de esta aplicación y subirlo a Youtube como No listado
