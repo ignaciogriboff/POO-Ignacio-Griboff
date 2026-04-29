@@ -1,4 +1,4 @@
-Ejercicio 06 - Login con QtDesigner
+Ejercicio - Login con QtDesigner
 -------------------------------------
 
 - Replicar el ejemplo del login en QtDesigner
