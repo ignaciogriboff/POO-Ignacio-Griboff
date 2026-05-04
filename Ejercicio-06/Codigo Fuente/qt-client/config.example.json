@@ -1,0 +1,5 @@
+{
+    "api_base_url": "http://173.212.234.190:8000",
+    "basic_user": "admin",
+    "basic_pass": "admin123"
+}

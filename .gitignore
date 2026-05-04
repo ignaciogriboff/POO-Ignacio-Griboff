@@ -66,3 +66,12 @@ release/
 # Archivos de VS Code (por si usas ese editor a veces)
 .vscode/
 .vs/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+**/.env
