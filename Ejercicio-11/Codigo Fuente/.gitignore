@@ -1,7 +1,0 @@
-build/
-cmake-build-*/
-*.user
-*.db
-*.sqlite
-*.sqlite3
-.vscode/
