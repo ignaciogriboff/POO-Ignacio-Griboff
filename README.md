@@ -1,4 +1,4 @@
-# Repositorio de Actividadesss
+# Repositorio de Actividades
 - **Materia:** Programación Orientada a Objetos
 - **Profesor:** Cesar Osimani
 - **Alumno:** Ignacio Griboff
